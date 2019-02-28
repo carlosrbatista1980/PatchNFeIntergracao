@@ -1,0 +1,320 @@
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.14247]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.16745]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.20128]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.20247]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.20275]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.20955]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.21210]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.21370]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.21591]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.21966]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.22661]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.23169]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.23248]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.23266]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.23433]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.23834]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.25382]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.27372]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.27877]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.28819]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.28955]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.29040]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.29441]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.29484]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.29598]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.29730]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.30108]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.30481]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.31125]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.31357]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.31504]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.31681]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.32039]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.32169]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.33882]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.33885]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.34031]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.34791]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{0C109D62-7589-46E3-A863-02CC5E6190DA}\InprocServer32\1.0.0.34817]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.14247]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.16745]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.20128]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.20247]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.20275]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.20955]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.21210]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.21370]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.21591]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.21966]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.22661]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.23169]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.23248]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.23266]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.23433]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.23834]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.25382]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.27372]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.27877]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.28819]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.28955]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.29040]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.29441]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.29484]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.29598]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.29730]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.30108]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.30481]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.31125]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.31357]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.31504]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.31681]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.32039]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.32169]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.33882]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.33885]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.34031]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.34791]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
+19/11/2018 16:32:11 CHAVE: [HKEY_CLASSES_ROOT\CLSID\{134C42C2-37E2-42C5-A556-525B8B23EF45}\InprocServer32\1.0.0.34817]
+### Mudou de: --> (file:///c:/sce/automagazine/nfe/nfeintegracao.dll)
+### Para: --> (file:///C:/SCE/AutoMagazine/NFe/NFeIntegracao.DLL)
+
